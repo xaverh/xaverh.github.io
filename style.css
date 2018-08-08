@@ -1,0 +1,75 @@
+body {
+  background-color: #f9f8f4;
+  margin: 40px auto;
+  max-width: 1000px;
+  line-height: 1.6;
+  font-size: 18px;
+  color: #424242;
+  padding: 0 10px;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+}
+
+.legacy {
+  background-color: #444444;
+  color: #f9f8f4;
+}
+
+.a {
+  background-color: #ab3325;
+  color: #f9f8f4;
+}
+
+.al {
+  background-color: #62200f;
+  color: #f9f8f4;
+}
+
+.c {
+  background-color: #e36a3d;
+  color: #f9f8f4;
+}
+
+.kcp {
+  color: #e0a629;
+  background-color: #ffffff;
+}
+
+.kt {
+  background-color: #ffffff;
+  color: #628F73;
+}
+
+.ku1 {
+  background-color: #ffffff;
+  color: #b0356c;
+}
+
+.kx {
+  background-color: #ffffff;
+  color: #628F73;
+}
+
+.l {
+  background-color: #1ea644;
+  color: #f9f8f4;
+}
+
+.lv {
+  background-color: #00a297;
+  color: #f9f8f4;
+}
+
+.q {
+  background-color: #257cbf;
+  color: #f9f8f4;
+}
+
+.x {
+  background-color: #b188a8;
+  color: #f9f8f4;
+}
